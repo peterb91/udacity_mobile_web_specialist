@@ -1,4 +1,5 @@
 # Wittr
+NOTE: App downloaded from https://github.com/jakearchibald/wittr in order to make it offline-first app.
 
 This is a silly little demo app for an offline-first course.
 
